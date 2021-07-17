@@ -11,6 +11,18 @@
 		657E8BE826A26BA100176A17 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 657E8BE726A26BA100176A17 /* ContentView.swift */; };
 		657E8BEA26A26BA300176A17 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 657E8BE926A26BA300176A17 /* Assets.xcassets */; };
 		657E8BED26A26BA300176A17 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 657E8BEC26A26BA300176A17 /* Preview Assets.xcassets */; };
+		657E8BF726A2846200176A17 /* FruitCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 657E8BF626A2846200176A17 /* FruitCardView.swift */; };
+		657E8BF926A2883B00176A17 /* StartButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 657E8BF826A2883B00176A17 /* StartButtonView.swift */; };
+		657E8BFB26A28B1E00176A17 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 657E8BFA26A28B1E00176A17 /* OnboardingView.swift */; };
+		657E8BFE26A28CD200176A17 /* FruitModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 657E8BFD26A28CD200176A17 /* FruitModel.swift */; };
+		657E8C0126A28DCD00176A17 /* FruitData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 657E8C0026A28DCD00176A17 /* FruitData.swift */; };
+		657E8C0326A2953D00176A17 /* FruitRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 657E8C0226A2953D00176A17 /* FruitRowView.swift */; };
+		657E8C0526A2999D00176A17 /* FruitDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 657E8C0426A2999D00176A17 /* FruitDetailView.swift */; };
+		657E8C0726A29C9800176A17 /* FruitHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 657E8C0626A29C9800176A17 /* FruitHeaderView.swift */; };
+		657E8C0926A29EAF00176A17 /* SourceLinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 657E8C0826A29EAF00176A17 /* SourceLinkView.swift */; };
+		657E8C0B26A2A20700176A17 /* FruitNutrientsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 657E8C0A26A2A20700176A17 /* FruitNutrientsView.swift */; };
+		657E8C0D26A2A58400176A17 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 657E8C0C26A2A58400176A17 /* SettingsView.swift */; };
+		657E8C0F26A2A8F000176A17 /* SettingsLabelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 657E8C0E26A2A8F000176A17 /* SettingsLabelView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +32,18 @@
 		657E8BE926A26BA300176A17 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		657E8BEC26A26BA300176A17 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		657E8BEE26A26BA300176A17 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		657E8BF626A2846200176A17 /* FruitCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitCardView.swift; sourceTree = "<group>"; };
+		657E8BF826A2883B00176A17 /* StartButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartButtonView.swift; sourceTree = "<group>"; };
+		657E8BFA26A28B1E00176A17 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		657E8BFD26A28CD200176A17 /* FruitModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitModel.swift; sourceTree = "<group>"; };
+		657E8C0026A28DCD00176A17 /* FruitData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitData.swift; sourceTree = "<group>"; };
+		657E8C0226A2953D00176A17 /* FruitRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitRowView.swift; sourceTree = "<group>"; };
+		657E8C0426A2999D00176A17 /* FruitDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitDetailView.swift; sourceTree = "<group>"; };
+		657E8C0626A29C9800176A17 /* FruitHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitHeaderView.swift; sourceTree = "<group>"; };
+		657E8C0826A29EAF00176A17 /* SourceLinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceLinkView.swift; sourceTree = "<group>"; };
+		657E8C0A26A2A20700176A17 /* FruitNutrientsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitNutrientsView.swift; sourceTree = "<group>"; };
+		657E8C0C26A2A58400176A17 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		657E8C0E26A2A8F000176A17 /* SettingsLabelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsLabelView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,8 +76,10 @@
 		657E8BE426A26BA100176A17 /* Frootz */ = {
 			isa = PBXGroup;
 			children = (
-				657E8BE526A26BA100176A17 /* FrootzApp.swift */,
-				657E8BE726A26BA100176A17 /* ContentView.swift */,
+				657E8BFF26A28DBA00176A17 /* Data */,
+				657E8BFC26A28CBC00176A17 /* Model */,
+				657E8BF526A2843600176A17 /* View */,
+				657E8BF426A2840500176A17 /* App */,
 				657E8BE926A26BA300176A17 /* Assets.xcassets */,
 				657E8BEE26A26BA300176A17 /* Info.plist */,
 				657E8BEB26A26BA300176A17 /* Preview Content */,
@@ -67,6 +93,48 @@
 				657E8BEC26A26BA300176A17 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		657E8BF426A2840500176A17 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				657E8BE526A26BA100176A17 /* FrootzApp.swift */,
+				657E8BE726A26BA100176A17 /* ContentView.swift */,
+				657E8BFA26A28B1E00176A17 /* OnboardingView.swift */,
+				657E8C0426A2999D00176A17 /* FruitDetailView.swift */,
+				657E8C0C26A2A58400176A17 /* SettingsView.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		657E8BF526A2843600176A17 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				657E8BF626A2846200176A17 /* FruitCardView.swift */,
+				657E8BF826A2883B00176A17 /* StartButtonView.swift */,
+				657E8C0226A2953D00176A17 /* FruitRowView.swift */,
+				657E8C0626A29C9800176A17 /* FruitHeaderView.swift */,
+				657E8C0826A29EAF00176A17 /* SourceLinkView.swift */,
+				657E8C0A26A2A20700176A17 /* FruitNutrientsView.swift */,
+				657E8C0E26A2A8F000176A17 /* SettingsLabelView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		657E8BFC26A28CBC00176A17 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				657E8BFD26A28CD200176A17 /* FruitModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		657E8BFF26A28DBA00176A17 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				657E8C0026A28DCD00176A17 /* FruitData.swift */,
+			);
+			path = Data;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,8 +206,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				657E8C0126A28DCD00176A17 /* FruitData.swift in Sources */,
+				657E8C0926A29EAF00176A17 /* SourceLinkView.swift in Sources */,
+				657E8BF726A2846200176A17 /* FruitCardView.swift in Sources */,
+				657E8C0326A2953D00176A17 /* FruitRowView.swift in Sources */,
+				657E8C0B26A2A20700176A17 /* FruitNutrientsView.swift in Sources */,
+				657E8BF926A2883B00176A17 /* StartButtonView.swift in Sources */,
+				657E8C0526A2999D00176A17 /* FruitDetailView.swift in Sources */,
 				657E8BE826A26BA100176A17 /* ContentView.swift in Sources */,
+				657E8C0726A29C9800176A17 /* FruitHeaderView.swift in Sources */,
+				657E8BFB26A28B1E00176A17 /* OnboardingView.swift in Sources */,
+				657E8C0F26A2A8F000176A17 /* SettingsLabelView.swift in Sources */,
+				657E8BFE26A28CD200176A17 /* FruitModel.swift in Sources */,
 				657E8BE626A26BA100176A17 /* FrootzApp.swift in Sources */,
+				657E8C0D26A2A58400176A17 /* SettingsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,6 +349,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"Frootz/Preview Content\"";
+				DEVELOPMENT_TEAM = X7AJCH46B9;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = Frootz/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
@@ -290,6 +371,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"Frootz/Preview Content\"";
+				DEVELOPMENT_TEAM = X7AJCH46B9;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = Frootz/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
