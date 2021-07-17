@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6544294E26A375850050361E /* SettingsRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6544294D26A375850050361E /* SettingsRowView.swift */; };
 		657E8BE626A26BA100176A17 /* FrootzApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 657E8BE526A26BA100176A17 /* FrootzApp.swift */; };
 		657E8BE826A26BA100176A17 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 657E8BE726A26BA100176A17 /* ContentView.swift */; };
 		657E8BEA26A26BA300176A17 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 657E8BE926A26BA300176A17 /* Assets.xcassets */; };
@@ -26,6 +27,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6544294D26A375850050361E /* SettingsRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SettingsRowView.swift; path = Frootz/App/SettingsRowView.swift; sourceTree = SOURCE_ROOT; };
 		657E8BE226A26BA100176A17 /* Frootz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Frootz.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		657E8BE526A26BA100176A17 /* FrootzApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrootzApp.swift; sourceTree = "<group>"; };
 		657E8BE726A26BA100176A17 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -110,6 +112,7 @@
 		657E8BF526A2843600176A17 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				6544294D26A375850050361E /* SettingsRowView.swift */,
 				657E8BF626A2846200176A17 /* FruitCardView.swift */,
 				657E8BF826A2883B00176A17 /* StartButtonView.swift */,
 				657E8C0226A2953D00176A17 /* FruitRowView.swift */,
@@ -208,6 +211,7 @@
 			files = (
 				657E8C0126A28DCD00176A17 /* FruitData.swift in Sources */,
 				657E8C0926A29EAF00176A17 /* SourceLinkView.swift in Sources */,
+				6544294E26A375850050361E /* SettingsRowView.swift in Sources */,
 				657E8BF726A2846200176A17 /* FruitCardView.swift in Sources */,
 				657E8C0326A2953D00176A17 /* FruitRowView.swift in Sources */,
 				657E8C0B26A2A20700176A17 /* FruitNutrientsView.swift in Sources */,
